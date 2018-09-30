@@ -1,5 +1,5 @@
-// function addCart(){
-//     console.log("button function works")
-// };
+function addCart(){
+    console.log("button function works")
+};
 
-// export default {addCart}
+export {addCart}
