@@ -2,6 +2,4 @@
 
 
 #Screen Shot
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Alt Text](https://github.com/ke4tri/Almost_Amazon/blob/master/ScreenShot.JPG)
