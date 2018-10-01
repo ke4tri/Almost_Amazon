@@ -7,10 +7,10 @@ const books = [
         image: "https://about.canva.com/wp-content/uploads/sites/3/2015/01/children_bookcover.png",
     },
     {
-        title: "Sex is a funny word",
+        title: "OMEGA",
         price: "$14.00",
         bio: "It the truth and it has always been the truth. When it comes to words, it's the funniest",
-        image: "https://typeset-beta.imgix.net/lovelace/uploads/615/79b3cfd0-f29b-0133-2434-0e1b1c96d76b.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdDeeHnqoV1IP9gO10Bft-vXkQHdPZZuJPQvm3hG0Fo-GytZKaw",
     }
 ]
 

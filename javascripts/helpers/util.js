@@ -13,8 +13,8 @@ const bookString = (bookNum) => {
         if(bookNum === i){
             newString += `<div id="person${[i]}" class="personAll ">`;
             newString +=    `<img src="${books[i].image}" class="img-fluid " alt="...">`
-            newString +=    `<h7>${books[i].title}</h7>`
-            newString +=    `<h7>${books[i].price}</h7>`
+            newString +=    `<h8>${books[i].title}</h8>`
+            newString +=    `<h8>${books[i].price}</h8>`
             newString +=  `</div>`
         };
     };
